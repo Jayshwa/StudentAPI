@@ -1,0 +1,6 @@
+@StudentAPI_HostAddress = http://localhost:5074
+
+GET {{StudentAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
