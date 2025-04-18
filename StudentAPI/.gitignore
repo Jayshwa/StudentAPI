@@ -1,24 +1,24 @@
-# Visual Studio generated files (can be excluded for a portfolio unless you specifically want to show the .sln)
+# Visual Studio generated files
 .vs/
 *.suo
 *.user
 *.csproj.user
 
-# Build output - definitely exclude for a clean portfolio
+# Build output
 bin/
 obj/
 publish/
 
-# Package caches - no need to show these
+# Package caches and local settings
 packages/
 *.nupkg
 _ReSharper*/
 *.DotSettings*
 
-# Local database - exclude as it contains data and is environment-specific
+# Local database
 Students.db
 
-# Development-specific settings - can contain paths or configurations not for public view
+# Development-specific settings
 appsettings.Development.json
 Properties/launchSettings.json
 
